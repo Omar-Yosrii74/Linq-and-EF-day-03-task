@@ -1,4 +1,4 @@
-# EF01 Task — Bookstore System (Entity Framework Core Code First)
+# EF03 Task — Bookstore System (Entity Framework Core Code First)
 
 ## Project Structure
 BookstoreSystem/
